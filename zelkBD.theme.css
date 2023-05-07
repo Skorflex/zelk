@@ -43,7 +43,7 @@
 /*-------------DARK MODE-------------*/
 /*---------------BASIC---------------*/
 .theme-dark {
-  --accent-color: #f0faff;
+  --accent-color: #666666;
   --background-1: #242424;
   --background-2: #262829;
   --background-accent: #262829;
